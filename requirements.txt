@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+pandas
+psycopg2-binary # PostgreSQL adapter
+sqlalchemy
+joblib
+numpy
+python-dotenv
